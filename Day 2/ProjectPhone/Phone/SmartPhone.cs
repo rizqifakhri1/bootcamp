@@ -19,7 +19,7 @@ public class SmartPhone
     {
         Console.WriteLine($"Phone Manufacture : {Brand}");
         Console.WriteLine($"Phone Type : {Type}");
-        Console.WriteLine($"Chip : {chip.Ram} Manufacure : {chip.Manufacture}  Core : {chip.CpuCore}");
+        Console.WriteLine($"Chip : {chip.Ram} Manufacure : {chip.Manufacture}  Core : {chip.CpuCore} Size : {chip.Size}");
     }
 
 }

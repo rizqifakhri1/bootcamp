@@ -5,6 +5,7 @@ public class Chip
     public string Manufacture;
     public int Ram;
     public int CpuCore;
+    public int Size;
 
     //Construcktor
     public Chip(string Manufacture, int Ram, int CpuCore)
@@ -12,6 +13,14 @@ public class Chip
         this.Manufacture = Manufacture;
         this.Ram = Ram;
         this.CpuCore = CpuCore;
+    }
+
+        public Chip(string Manufacture, int Ram, int CpuCore, int Size)
+    {
+        this.Manufacture = Manufacture;
+        this.Ram = Ram;
+        this.CpuCore = CpuCore;
+        this.Size = Size;
     }
 
     public void PrintSpec()
