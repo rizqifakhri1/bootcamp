@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.AssemblyInfo.cs
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.sourcelink.json
+C:\RizqiBatch10\Day 2\ProjectPhone\bin\Debug\net8.0\ProjectPhone.exe
+C:\RizqiBatch10\Day 2\ProjectPhone\bin\Debug\net8.0\ProjectPhone.deps.json
+C:\RizqiBatch10\Day 2\ProjectPhone\bin\Debug\net8.0\ProjectPhone.runtimeconfig.json
+C:\RizqiBatch10\Day 2\ProjectPhone\bin\Debug\net8.0\ProjectPhone.dll
+C:\RizqiBatch10\Day 2\ProjectPhone\bin\Debug\net8.0\ProjectPhone.pdb
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.dll
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\refint\ProjectPhone.dll
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.pdb
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ProjectPhone.genruntimeconfig.cache
+C:\RizqiBatch10\Day 2\ProjectPhone\obj\Debug\net8.0\ref\ProjectPhone.dll

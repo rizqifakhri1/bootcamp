@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.AssemblyInfo.cs
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.sourcelink.json
+C:\RizqiBatch10\Day 2\ProjectCat\bin\Debug\net8.0\ProjectCat.exe
+C:\RizqiBatch10\Day 2\ProjectCat\bin\Debug\net8.0\ProjectCat.deps.json
+C:\RizqiBatch10\Day 2\ProjectCat\bin\Debug\net8.0\ProjectCat.runtimeconfig.json
+C:\RizqiBatch10\Day 2\ProjectCat\bin\Debug\net8.0\ProjectCat.dll
+C:\RizqiBatch10\Day 2\ProjectCat\bin\Debug\net8.0\ProjectCat.pdb
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.dll
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\refint\ProjectCat.dll
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.pdb
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ProjectCat.genruntimeconfig.cache
+C:\RizqiBatch10\Day 2\ProjectCat\obj\Debug\net8.0\ref\ProjectCat.dll

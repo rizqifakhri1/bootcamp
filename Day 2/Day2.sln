@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCat", "ProjectCat\ProjectCat.csproj", "{34FB82F6-7C3D-47C0-98CB-5229BB1FFB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPhone", "ProjectPhone\ProjectPhone.csproj", "{681CC2BB-FC09-45BF-A9EB-274381CC09C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FB82F6-7C3D-47C0-98CB-5229BB1FFB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FB82F6-7C3D-47C0-98CB-5229BB1FFB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FB82F6-7C3D-47C0-98CB-5229BB1FFB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FB82F6-7C3D-47C0-98CB-5229BB1FFB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681CC2BB-FC09-45BF-A9EB-274381CC09C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681CC2BB-FC09-45BF-A9EB-274381CC09C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681CC2BB-FC09-45BF-A9EB-274381CC09C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681CC2BB-FC09-45BF-A9EB-274381CC09C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
