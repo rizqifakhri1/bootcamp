@@ -2,20 +2,30 @@ namespace ProjectPhone.Phone;
 
 public class Battery
 {
-    public int BatteryLevel;
+    public int BatteryLevel { get; set; } //Get set untuk menerima return kembali
 
-    public Battery (int BatteryLevel)
+    public Battery(int BatteryLevel)
     {
         this.BatteryLevel = BatteryLevel;
     }
 
-    public void Charge() 
+    public int Charge() // Menyatakan tipe pengembalian int
     {
-        if (BatteryLevel == 100) {
+        if (BatteryLevel == 100)
+        {
             Console.WriteLine("Battery Penuh");
-        } else {
+        }
+        else
+        {
             BatteryLevel += 10;
             Console.WriteLine($"Setelah Di Charge : {BatteryLevel}");
-        } 
+        }
+
+        return BatteryLevel; // Mengembalikan nilai BatteryLevel
     }
+
+    // public void ChargeInfo()
+    // {
+    //     Console.WriteLine(BatteryLevel);
+    // }
 }

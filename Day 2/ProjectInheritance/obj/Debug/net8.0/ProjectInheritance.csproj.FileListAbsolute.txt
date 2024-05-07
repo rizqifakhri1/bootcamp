@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.AssemblyInfo.cs
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.sourcelink.json
+C:\RizqiBatch10\Day 2\ProjectInheritance\bin\Debug\net8.0\ProjectInheritance.exe
+C:\RizqiBatch10\Day 2\ProjectInheritance\bin\Debug\net8.0\ProjectInheritance.deps.json
+C:\RizqiBatch10\Day 2\ProjectInheritance\bin\Debug\net8.0\ProjectInheritance.runtimeconfig.json
+C:\RizqiBatch10\Day 2\ProjectInheritance\bin\Debug\net8.0\ProjectInheritance.dll
+C:\RizqiBatch10\Day 2\ProjectInheritance\bin\Debug\net8.0\ProjectInheritance.pdb
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.dll
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\refint\ProjectInheritance.dll
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.pdb
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ProjectInheritance.genruntimeconfig.cache
+C:\RizqiBatch10\Day 2\ProjectInheritance\obj\Debug\net8.0\ref\ProjectInheritance.dll

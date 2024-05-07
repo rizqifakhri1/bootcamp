@@ -16,4 +16,6 @@ public class Card
         Console.WriteLine($"Provider Jaringan : {Provider}");
         Console.WriteLine($"Tipe Jaringan : {NetworkType}");
     }
+
+    
 }
