@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 10\\.nuget\\packages\\": {}
+    "/Users/rizqifakhri/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RizqiBatch10\\Day 2\\ProjectInheritance\\ProjectInheritance.csproj",
+      "projectUniqueName": "/Users/rizqifakhri/bootcamp/Day 2/ProjectInheritance/ProjectInheritance.csproj",
       "projectName": "ProjectInheritance",
-      "projectPath": "C:\\RizqiBatch10\\Day 2\\ProjectInheritance\\ProjectInheritance.csproj",
-      "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
-      "outputPath": "C:\\RizqiBatch10\\Day 2\\ProjectInheritance\\obj\\",
+      "projectPath": "/Users/rizqifakhri/bootcamp/Day 2/ProjectInheritance/ProjectInheritance.csproj",
+      "packagesPath": "/Users/rizqifakhri/.nuget/packages/",
+      "outputPath": "/Users/rizqifakhri/bootcamp/Day 2/ProjectInheritance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/rizqifakhri/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
