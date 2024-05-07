@@ -31,3 +31,4 @@ class Program
         Console.WriteLine($"ID: {forsaken.id}, Name: {forsaken.name}, Salary: {forsaken.gaji}, Handle Jenis Mesin: {forsaken.jenisMesin}");
     }
 }
+

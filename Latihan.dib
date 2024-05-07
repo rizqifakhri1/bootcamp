@@ -1,0 +1,82 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+using System;
+
+public class Kendaraan 
+{
+    public string nama;
+    public string merek;
+
+    public Kendaraan(string nama, string merek)
+    {
+        this.nama = nama;
+        this.merek = merek;
+    }
+}
+
+public class Mobil : Kendaraan
+{
+    public int pintu ;
+
+    public Mobil (string nama, string merek, int pintu) : base(nama, merek)
+    {
+        this.pintu = pintu ;
+    }
+    public void PrintInfo()
+    {
+        Console.WriteLine(nama);
+    }
+}
+
+class Program 
+{
+    [STAThread]
+    static void Main()
+    {
+        Mobil agya = new Mobil("Agya", "Toyota", 4);
+
+        Console.WriteLine(agya.nama);
+        
+    }
+}
+
+#!csharp
+
+using System;
+
+public class Employee
+{
+    public int id;
+    public string name;
+    public int gaji;
+}
+
+public class Marketing : Employee
+{
+    public string divisi;
+
+    // Tidak perlu memanggil konstruktor kelas induk karena tidak ada konstruktor yang didefinisikan di kelas Employee 
+	// : Base(id, name, gaji)
+    public Marketing(int id, string name, int gaji, string divisi)
+    {
+        this.id = id;
+        this.name = name;
+        this.gaji = gaji;
+        this.divisi = divisi;
+    }
+}
+
+
+public class Program
+{
+	public static void Main()
+	{
+		Marketing marketing = new Marketing(1, "Rizqi", 123, "Design");
+		
+		Console.WriteLine(marketing.name);
+	}
+}

@@ -6,6 +6,7 @@ public class Employee
     public string name;
     public int gaji;
 
+    //constructor
     public Employee(int id, string name, int gaji)
     {
         this.id = id;
