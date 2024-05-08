@@ -22,7 +22,7 @@ public static class Calculator
 //Besarin Font
 public static class MethodUpper
 {
-    public static string ToUpper(string input) // masih bingung this (this string input) -> untuk mempermudah pembacaan
+    public static string ToUpper(this string input) // masih bingung this (this string input) -> untuk mempermudah pembacaan
     {
         if (string.IsNullOrEmpty(input))
         {
