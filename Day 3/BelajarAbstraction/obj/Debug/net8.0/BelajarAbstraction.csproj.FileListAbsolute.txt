@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 3\BelajarAbstraction\bin\Debug\net8.0\BelajarAbstraction.exe
+C:\RizqiBatch10\Day 3\BelajarAbstraction\bin\Debug\net8.0\BelajarAbstraction.deps.json
+C:\RizqiBatch10\Day 3\BelajarAbstraction\bin\Debug\net8.0\BelajarAbstraction.runtimeconfig.json
+C:\RizqiBatch10\Day 3\BelajarAbstraction\bin\Debug\net8.0\BelajarAbstraction.dll
+C:\RizqiBatch10\Day 3\BelajarAbstraction\bin\Debug\net8.0\BelajarAbstraction.pdb
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.AssemblyInfo.cs
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.sourcelink.json
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.dll
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\refint\BelajarAbstraction.dll
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.pdb
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\BelajarAbstraction.genruntimeconfig.cache
+C:\RizqiBatch10\Day 3\BelajarAbstraction\obj\Debug\net8.0\ref\BelajarAbstraction.dll

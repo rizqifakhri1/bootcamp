@@ -80,3 +80,124 @@ public class Program
 		Console.WriteLine(marketing.name);
 	}
 }
+
+#!csharp
+
+// Overloading
+
+class Calculator
+{
+    public int Add (int a, int b)
+    {
+        return a + b;
+    }
+
+    public double Add (int a, int b)
+    {
+        return a + b;
+    }
+
+}
+
+#!csharp
+
+// Polymorphsm
+public class Animal 
+{
+
+    public int UmurKucing (int umur)
+    {
+        return umur;
+    }
+
+    public virtual void Makan ()
+    {
+        Console.WriteLine("Makanan Default");
+    }
+}
+
+public class Cat:Animal
+{
+
+    public double UmurKucing (int umur)
+    {
+        return umur;
+    }
+    
+    public override void Makan()
+    {
+        Console.WriteLine("Makan Ikan");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Cat Billy = new Cat();
+
+        
+        //Overloading
+        // Dapat berubah sesuai dengan value dari parameter (5 / 5.5)
+        Billy.UmurKucing(5);
+        Console.WriteLine(Billy.UmurKucing);
+
+
+
+        //Overriding
+        Billy.Makan();
+
+    }
+}
+
+#!markdown
+
+Solusi Benar
+
+#!csharp
+
+using System;
+
+public class Animal 
+{
+
+    public int UmurKucing(int umur)
+    {
+        return umur;
+    }
+
+    public virtual void Makan()
+    {
+        Console.WriteLine("Makanan Default");
+    }
+}
+
+public class Cat : Animal
+{
+
+    public double UmurKucing(int umur)
+    {
+        return umur;
+    }
+
+    public override void Makan()
+    {
+        Console.WriteLine("Makan Ikan");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Cat Billy = new Cat();
+        
+        // Overloading
+        int umur = 5;
+        double hasilUmur = Billy.UmurKucing(umur);
+        Console.WriteLine("Umur Billy: " + hasilUmur);
+        
+        // Overriding
+        Billy.Makan();
+    }
+}

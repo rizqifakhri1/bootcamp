@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.AssemblyInfo.cs
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.sourcelink.json
+C:\RizqiBatch10\Day 3\ProjectPoly\bin\Debug\net8.0\ProjectPoly.exe
+C:\RizqiBatch10\Day 3\ProjectPoly\bin\Debug\net8.0\ProjectPoly.deps.json
+C:\RizqiBatch10\Day 3\ProjectPoly\bin\Debug\net8.0\ProjectPoly.runtimeconfig.json
+C:\RizqiBatch10\Day 3\ProjectPoly\bin\Debug\net8.0\ProjectPoly.dll
+C:\RizqiBatch10\Day 3\ProjectPoly\bin\Debug\net8.0\ProjectPoly.pdb
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.dll
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\refint\ProjectPoly.dll
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.pdb
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ProjectPoly.genruntimeconfig.cache
+C:\RizqiBatch10\Day 3\ProjectPoly\obj\Debug\net8.0\ref\ProjectPoly.dll
