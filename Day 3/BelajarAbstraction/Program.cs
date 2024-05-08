@@ -6,16 +6,15 @@
         Rectangle rct = new Rectangle();
 
         // circle.ChangeColor("Green");
-        circle.Draw();;
+        circle.Draw();
+        circle.ChangeColor("Green");
         circle.Size();
         circle.Tools();
         circle.Volume();
-        circle.ChangeColor("Green");
         circle.Rotate(40);
     
-
-        rct.ChangeColor("Merah");
         rct.Draw();
+        rct.ChangeColor("Merah");
         rct.Size();
         rct.Volume();
     }
@@ -50,7 +49,7 @@ class Circle : OutlineColor, IShape, IDrawWith, ISize, IVolume
 
     public void Rotate(int numOfRotation)
     {
-        Console.WriteLine("Besar Rotasi :" + numOfRotation);
+        Console.WriteLine("Besar Rotasi : " + numOfRotation);
     }
 }
 
@@ -122,5 +121,5 @@ interface IDrawWith
 
 interface IRotate
 {
-    void Rotate();
+    void Rotate(int numOfRotation);
 }

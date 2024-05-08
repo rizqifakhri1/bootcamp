@@ -201,3 +201,25 @@ class Program
         Billy.Makan();
     }
 }
+
+#!csharp
+
+//Penggunaan static
+public static class Calculator
+{
+    public static double PI = 3.14;
+
+    public static double Add(double a, double b)
+    {
+        return a + b;
+    }
+} 
+
+public class Program 
+{
+    static void Main()
+    {
+        Calculator.Add(3, 5);
+        Console.WriteLine(Calculator.Add());
+    }
+}

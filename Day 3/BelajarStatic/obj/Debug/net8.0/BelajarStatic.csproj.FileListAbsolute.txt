@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 3\BelajarStatic\bin\Debug\net8.0\BelajarStatic.exe
+C:\RizqiBatch10\Day 3\BelajarStatic\bin\Debug\net8.0\BelajarStatic.deps.json
+C:\RizqiBatch10\Day 3\BelajarStatic\bin\Debug\net8.0\BelajarStatic.runtimeconfig.json
+C:\RizqiBatch10\Day 3\BelajarStatic\bin\Debug\net8.0\BelajarStatic.dll
+C:\RizqiBatch10\Day 3\BelajarStatic\bin\Debug\net8.0\BelajarStatic.pdb
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.AssemblyInfo.cs
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.sourcelink.json
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.dll
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\refint\BelajarStatic.dll
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.pdb
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\BelajarStatic.genruntimeconfig.cache
+C:\RizqiBatch10\Day 3\BelajarStatic\obj\Debug\net8.0\ref\BelajarStatic.dll

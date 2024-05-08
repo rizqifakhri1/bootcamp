@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPoly", "ProjectPoly\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarAbstraction", "BelajarAbstraction\BelajarAbstraction.csproj", "{FC4BC305-AEC0-4C73-8D20-328BBC61CF02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarStatic", "BelajarStatic\BelajarStatic.csproj", "{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +46,17 @@ Global
 		{FC4BC305-AEC0-4C73-8D20-328BBC61CF02}.Release|x64.Build.0 = Release|Any CPU
 		{FC4BC305-AEC0-4C73-8D20-328BBC61CF02}.Release|x86.ActiveCfg = Release|Any CPU
 		{FC4BC305-AEC0-4C73-8D20-328BBC61CF02}.Release|x86.Build.0 = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|x64.Build.0 = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Debug|x86.Build.0 = Debug|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|x64.ActiveCfg = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|x64.Build.0 = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|x86.ActiveCfg = Release|Any CPU
+		{4AF73F5B-6AE9-43E3-9DF6-A33AC357CB28}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
