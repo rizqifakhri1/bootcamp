@@ -38,9 +38,10 @@ class Program
     static void Main()
     {
         Cat Caty = new Cat("Wiskas", "Caty");
-        Caty.eat();
-        Caty.PrintInfo(Caty.CatName);
-        Caty.PrintInfo(Caty.CatName, Caty.FavFood);
+        Caty.eat(); //caty method eat aja
+        Caty.PrintInfo(); //tanpa parameter
+        Caty.PrintInfo(Caty.CatName); // disini cuma manggil parameter name
+        Caty.PrintInfo(Caty.CatName, Caty.FavFood); // disini manggil kedua parameter
 
     }
 }
