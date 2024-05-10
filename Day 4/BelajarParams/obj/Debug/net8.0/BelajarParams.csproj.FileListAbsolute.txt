@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.AssemblyInfo.cs
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.sourcelink.json
+C:\RizqiBatch10\Day 4\BelajarParams\bin\Debug\net8.0\BelajarParams.exe
+C:\RizqiBatch10\Day 4\BelajarParams\bin\Debug\net8.0\BelajarParams.deps.json
+C:\RizqiBatch10\Day 4\BelajarParams\bin\Debug\net8.0\BelajarParams.runtimeconfig.json
+C:\RizqiBatch10\Day 4\BelajarParams\bin\Debug\net8.0\BelajarParams.dll
+C:\RizqiBatch10\Day 4\BelajarParams\bin\Debug\net8.0\BelajarParams.pdb
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.dll
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\refint\BelajarParams.dll
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.pdb
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\BelajarParams.genruntimeconfig.cache
+C:\RizqiBatch10\Day 4\BelajarParams\obj\Debug\net8.0\ref\BelajarParams.dll
