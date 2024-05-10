@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarStatic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f455646164653b7b887c1098505445c348349b23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93489e66e2df5a88af6da9670ed05752c54e924b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarStatic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarStatic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.AssemblyInfo.cs
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.sourcelink.json
+C:\RizqiBatch10\Day 4\RefInOut\bin\Debug\net8.0\RefInOut.exe
+C:\RizqiBatch10\Day 4\RefInOut\bin\Debug\net8.0\RefInOut.deps.json
+C:\RizqiBatch10\Day 4\RefInOut\bin\Debug\net8.0\RefInOut.runtimeconfig.json
+C:\RizqiBatch10\Day 4\RefInOut\bin\Debug\net8.0\RefInOut.dll
+C:\RizqiBatch10\Day 4\RefInOut\bin\Debug\net8.0\RefInOut.pdb
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.dll
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\refint\RefInOut.dll
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.pdb
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\RefInOut.genruntimeconfig.cache
+C:\RizqiBatch10\Day 4\RefInOut\obj\Debug\net8.0\ref\RefInOut.dll

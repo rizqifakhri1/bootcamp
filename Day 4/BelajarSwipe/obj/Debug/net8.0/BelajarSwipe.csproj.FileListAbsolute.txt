@@ -1,0 +1,5 @@
+C:\RizqiBatch10\Day 4\BelajarSwipe\obj\Debug\net8.0\BelajarSwipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 4\BelajarSwipe\obj\Debug\net8.0\BelajarSwipe.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 4\BelajarSwipe\obj\Debug\net8.0\BelajarSwipe.AssemblyInfo.cs
+C:\RizqiBatch10\Day 4\BelajarSwipe\obj\Debug\net8.0\BelajarSwipe.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 4\BelajarSwipe\obj\Debug\net8.0\BelajarSwipe.sourcelink.json

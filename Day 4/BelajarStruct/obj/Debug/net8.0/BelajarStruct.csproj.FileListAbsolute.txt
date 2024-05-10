@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.AssemblyInfo.cs
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.sourcelink.json
+C:\RizqiBatch10\Day 4\BelajarStruct\bin\Debug\net8.0\BelajarStruct.exe
+C:\RizqiBatch10\Day 4\BelajarStruct\bin\Debug\net8.0\BelajarStruct.deps.json
+C:\RizqiBatch10\Day 4\BelajarStruct\bin\Debug\net8.0\BelajarStruct.runtimeconfig.json
+C:\RizqiBatch10\Day 4\BelajarStruct\bin\Debug\net8.0\BelajarStruct.dll
+C:\RizqiBatch10\Day 4\BelajarStruct\bin\Debug\net8.0\BelajarStruct.pdb
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.dll
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\refint\BelajarStruct.dll
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.pdb
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\BelajarStruct.genruntimeconfig.cache
+C:\RizqiBatch10\Day 4\BelajarStruct\obj\Debug\net8.0\ref\BelajarStruct.dll
