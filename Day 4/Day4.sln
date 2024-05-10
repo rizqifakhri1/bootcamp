@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarStruct", "BelajarStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefInOut", "RefInOut\RefInOut.csproj", "{0AEB09E0-BCF9-4D64-BFD1-64E289670510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarEnum", "BelajarEnum\BelajarEnum.csproj", "{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,5 +74,17 @@ Global
 		{0AEB09E0-BCF9-4D64-BFD1-64E289670510}.Release|x64.Build.0 = Release|Any CPU
 		{0AEB09E0-BCF9-4D64-BFD1-64E289670510}.Release|x86.ActiveCfg = Release|Any CPU
 		{0AEB09E0-BCF9-4D64-BFD1-64E289670510}.Release|x86.Build.0 = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|x64.Build.0 = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Debug|x86.Build.0 = Debug|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|x64.ActiveCfg = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|x64.Build.0 = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|x86.ActiveCfg = Release|Any CPU
+		{C4CF34F5-DEB6-4C48-960E-A0232D87A80E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

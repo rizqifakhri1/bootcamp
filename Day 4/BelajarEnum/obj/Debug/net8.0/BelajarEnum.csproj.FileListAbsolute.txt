@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.AssemblyInfo.cs
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.sourcelink.json
+C:\RizqiBatch10\Day 4\BelajarEnum\bin\Debug\net8.0\BelajarEnum.exe
+C:\RizqiBatch10\Day 4\BelajarEnum\bin\Debug\net8.0\BelajarEnum.deps.json
+C:\RizqiBatch10\Day 4\BelajarEnum\bin\Debug\net8.0\BelajarEnum.runtimeconfig.json
+C:\RizqiBatch10\Day 4\BelajarEnum\bin\Debug\net8.0\BelajarEnum.dll
+C:\RizqiBatch10\Day 4\BelajarEnum\bin\Debug\net8.0\BelajarEnum.pdb
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.dll
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\refint\BelajarEnum.dll
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.pdb
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\BelajarEnum.genruntimeconfig.cache
+C:\RizqiBatch10\Day 4\BelajarEnum\obj\Debug\net8.0\ref\BelajarEnum.dll
