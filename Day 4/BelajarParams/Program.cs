@@ -21,6 +21,7 @@ class StringClc
             int number = int.Parse(i);
             sum += number;
         }
+        
 
         return sum;
     }

@@ -223,3 +223,39 @@ public class Program
         Console.WriteLine(Calculator.Add());
     }
 }
+
+#!csharp
+
+var num1 = 10;
+var num2 = 5;
+var mod = num1 % num2;
+Console.WriteLine(mod);
+
+num1 = 13;
+mod = num1 % num2;
+Console.WriteLine(mod);
+
+#!csharp
+
+// == > >= < <= !=
+string ageString = Console.ReadLine();
+int age = Convert.ToInt32(ageString);
+if (age >= 20)
+{
+	Console.WriteLine("Umur Kamu 20 atau lebih");
+}
+else if (age >= 25)
+{
+	Console.WriteLine("Lebih tua atau sama dengan 25");
+}
+else
+{
+	Console.WriteLine("Input Salah");
+}
+
+#!csharp
+
+for(int i = 0; i < 5; i++)
+{
+	Console.WriteLine("Nilai : " + i);
+}

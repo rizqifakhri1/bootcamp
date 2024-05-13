@@ -1,15 +1,30 @@
-D:\bootcamp\ProjectA\bin\Debug\net8.0\ProjectA.exe
-D:\bootcamp\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
-D:\bootcamp\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
-D:\bootcamp\ProjectA\bin\Debug\net8.0\ProjectA.dll
-D:\bootcamp\ProjectA\bin\Debug\net8.0\ProjectA.pdb
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.sourcelink.json
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.dll
-D:\bootcamp\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.pdb
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
-D:\bootcamp\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll
+D:/bootcamp/ProjectA/bin/Debug/net8.0/ProjectA.exe
+D:/bootcamp/ProjectA/bin/Debug/net8.0/ProjectA.deps.json
+D:/bootcamp/ProjectA/bin/Debug/net8.0/ProjectA.runtimeconfig.json
+D:/bootcamp/ProjectA/bin/Debug/net8.0/ProjectA.dll
+D:/bootcamp/ProjectA/bin/Debug/net8.0/ProjectA.pdb
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.AssemblyInfoInputs.cache
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.AssemblyInfo.cs
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.csproj.CoreCompileInputs.cache
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.sourcelink.json
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.dll
+D:/bootcamp/ProjectA/obj/Debug/net8.0/refint/ProjectA.dll
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.pdb
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ProjectA.genruntimeconfig.cache
+D:/bootcamp/ProjectA/obj/Debug/net8.0/ref/ProjectA.dll
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/bin/Debug/net8.0/ProjectA
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/bin/Debug/net8.0/ProjectA.deps.json
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/bin/Debug/net8.0/ProjectA.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/bin/Debug/net8.0/ProjectA.dll
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/bin/Debug/net8.0/ProjectA.pdb
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.dll
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/refint/ProjectA.dll
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.pdb
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ProjectA.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 1/ProjectA/obj/Debug/net8.0/ref/ProjectA.dll

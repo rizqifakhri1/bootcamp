@@ -3,8 +3,9 @@
     public string FavFood;
 
     public string CatName;
-
-    public Cat(string FavFood, string CatName) //overloading 2 parameter
+    
+    //Construktor
+    public Cat(string FavFood, string CatName) 
     {
         this.FavFood = FavFood;
         this.CatName = CatName;

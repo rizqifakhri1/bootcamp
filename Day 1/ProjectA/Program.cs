@@ -1,16 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-
-using System.Diagnostics.Tracing;
-
-// Field
+﻿
 class Cat 
 {
+		// Field
     string color;
     string spesies;
+    //Method
     public void Eat()
     {
-        // Object
         Console.WriteLine("Cat Eat");
     }
 }
