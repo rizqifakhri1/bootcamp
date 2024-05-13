@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.sourcelink.json
+C:\RizqiBatch10\Day 5\BelajarProperty\bin\Debug\net8.0\BelajarProperty.exe
+C:\RizqiBatch10\Day 5\BelajarProperty\bin\Debug\net8.0\BelajarProperty.deps.json
+C:\RizqiBatch10\Day 5\BelajarProperty\bin\Debug\net8.0\BelajarProperty.runtimeconfig.json
+C:\RizqiBatch10\Day 5\BelajarProperty\bin\Debug\net8.0\BelajarProperty.dll
+C:\RizqiBatch10\Day 5\BelajarProperty\bin\Debug\net8.0\BelajarProperty.pdb
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.dll
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\refint\BelajarProperty.dll
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.pdb
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\BelajarProperty.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\BelajarProperty\obj\Debug\net8.0\ref\BelajarProperty.dll

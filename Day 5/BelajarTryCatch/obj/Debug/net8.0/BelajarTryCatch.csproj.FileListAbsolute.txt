@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.sourcelink.json
+C:\RizqiBatch10\Day 5\BelajarTryCatch\bin\Debug\net8.0\BelajarTryCatch.exe
+C:\RizqiBatch10\Day 5\BelajarTryCatch\bin\Debug\net8.0\BelajarTryCatch.deps.json
+C:\RizqiBatch10\Day 5\BelajarTryCatch\bin\Debug\net8.0\BelajarTryCatch.runtimeconfig.json
+C:\RizqiBatch10\Day 5\BelajarTryCatch\bin\Debug\net8.0\BelajarTryCatch.dll
+C:\RizqiBatch10\Day 5\BelajarTryCatch\bin\Debug\net8.0\BelajarTryCatch.pdb
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.dll
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\refint\BelajarTryCatch.dll
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.pdb
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\BelajarTryCatch.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\BelajarTryCatch\obj\Debug\net8.0\ref\BelajarTryCatch.dll

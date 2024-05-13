@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarEventHand2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351b9f66775a0430488c2ccd0caec449173de2d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287534c7c43621abc5c479e3bb378948e07674ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarEventHand2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarEventHand2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

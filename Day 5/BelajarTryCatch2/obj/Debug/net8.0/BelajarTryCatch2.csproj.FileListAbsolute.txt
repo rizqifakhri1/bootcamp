@@ -1,0 +1,5 @@
+C:\RizqiBatch10\Day 5\BelajarTryCatch2\obj\Debug\net8.0\BelajarTryCatch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarTryCatch2\obj\Debug\net8.0\BelajarTryCatch2.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarTryCatch2\obj\Debug\net8.0\BelajarTryCatch2.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarTryCatch2\obj\Debug\net8.0\BelajarTryCatch2.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarTryCatch2\obj\Debug\net8.0\BelajarTryCatch2.sourcelink.json

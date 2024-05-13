@@ -11,10 +11,15 @@
 
 public class LevelUp
 {
-    public void EnemyKilled(object sender, EventArgs e)
+    public void HandlerEnemyKilled(object sender, EventArgs e)
     {
         System.Console.WriteLine("Musuh Terbunuh, Naik Level");
     }
+    public void ShowLevel(int level)
+    {
+        Console.WriteLine($"Level saat ini: {level}");
+    }
+
 }
 
 class Program
@@ -25,8 +30,10 @@ class Program
         Enemy enemy = new();
 
         // Event Handler
-        enemy.Terpukul += levelUp.EnemyKilled;
+        enemy.Terpukul += levelUp.HandlerEnemyKilled;
 
         enemy.Pukul();
+
+        levelUp.ShowLevel(2);
     }
 }
