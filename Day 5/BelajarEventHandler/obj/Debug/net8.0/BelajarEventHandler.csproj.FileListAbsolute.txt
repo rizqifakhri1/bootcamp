@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.sourcelink.json
+C:\RizqiBatch10\Day 5\BelajarEventHandler\bin\Debug\net8.0\BelajarEventHandler.exe
+C:\RizqiBatch10\Day 5\BelajarEventHandler\bin\Debug\net8.0\BelajarEventHandler.deps.json
+C:\RizqiBatch10\Day 5\BelajarEventHandler\bin\Debug\net8.0\BelajarEventHandler.runtimeconfig.json
+C:\RizqiBatch10\Day 5\BelajarEventHandler\bin\Debug\net8.0\BelajarEventHandler.dll
+C:\RizqiBatch10\Day 5\BelajarEventHandler\bin\Debug\net8.0\BelajarEventHandler.pdb
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.dll
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\refint\BelajarEventHandler.dll
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.pdb
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\BelajarEventHandler.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\BelajarEventHandler\obj\Debug\net8.0\ref\BelajarEventHandler.dll

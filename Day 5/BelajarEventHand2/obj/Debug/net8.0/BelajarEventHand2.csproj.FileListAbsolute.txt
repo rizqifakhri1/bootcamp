@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\BelajarEventHand2\bin\Debug\net8.0\BelajarEventHand2.exe
+C:\RizqiBatch10\Day 5\BelajarEventHand2\bin\Debug\net8.0\BelajarEventHand2.deps.json
+C:\RizqiBatch10\Day 5\BelajarEventHand2\bin\Debug\net8.0\BelajarEventHand2.runtimeconfig.json
+C:\RizqiBatch10\Day 5\BelajarEventHand2\bin\Debug\net8.0\BelajarEventHand2.dll
+C:\RizqiBatch10\Day 5\BelajarEventHand2\bin\Debug\net8.0\BelajarEventHand2.pdb
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.sourcelink.json
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.dll
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\refint\BelajarEventHand2.dll
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.pdb
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\BelajarEventHand2.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\BelajarEventHand2\obj\Debug\net8.0\ref\BelajarEventHand2.dll
