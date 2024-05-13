@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.sourcelink.json
+C:\RizqiBatch10\Day 5\LatihanDelegates3\bin\Debug\net8.0\LatihanDelegates3.exe
+C:\RizqiBatch10\Day 5\LatihanDelegates3\bin\Debug\net8.0\LatihanDelegates3.deps.json
+C:\RizqiBatch10\Day 5\LatihanDelegates3\bin\Debug\net8.0\LatihanDelegates3.runtimeconfig.json
+C:\RizqiBatch10\Day 5\LatihanDelegates3\bin\Debug\net8.0\LatihanDelegates3.dll
+C:\RizqiBatch10\Day 5\LatihanDelegates3\bin\Debug\net8.0\LatihanDelegates3.pdb
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.dll
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\refint\LatihanDelegates3.dll
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.pdb
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\LatihanDelegates3.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\LatihanDelegates3\obj\Debug\net8.0\ref\LatihanDelegates3.dll

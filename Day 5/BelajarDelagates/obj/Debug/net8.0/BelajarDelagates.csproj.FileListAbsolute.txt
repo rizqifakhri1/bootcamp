@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.AssemblyInfo.cs
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.sourcelink.json
+C:\RizqiBatch10\Day 5\BelajarDelagates\bin\Debug\net8.0\BelajarDelagates.exe
+C:\RizqiBatch10\Day 5\BelajarDelagates\bin\Debug\net8.0\BelajarDelagates.deps.json
+C:\RizqiBatch10\Day 5\BelajarDelagates\bin\Debug\net8.0\BelajarDelagates.runtimeconfig.json
+C:\RizqiBatch10\Day 5\BelajarDelagates\bin\Debug\net8.0\BelajarDelagates.dll
+C:\RizqiBatch10\Day 5\BelajarDelagates\bin\Debug\net8.0\BelajarDelagates.pdb
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.dll
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\refint\BelajarDelagates.dll
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.pdb
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\BelajarDelagates.genruntimeconfig.cache
+C:\RizqiBatch10\Day 5\BelajarDelagates\obj\Debug\net8.0\ref\BelajarDelagates.dll
