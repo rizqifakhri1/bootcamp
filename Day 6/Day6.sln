@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarEnumerator", "Belaja
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarFooBar", "BelajarFooBar\BelajarFooBar.csproj", "{778B59B9-FC6A-437E-A92F-D1205D55004E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasFooBar", "TugasFooBar\TugasFooBar.csproj", "{9F13A093-95A0-4340-BA3A-3C63EA8AD102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{778B59B9-FC6A-437E-A92F-D1205D55004E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{778B59B9-FC6A-437E-A92F-D1205D55004E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{778B59B9-FC6A-437E-A92F-D1205D55004E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F13A093-95A0-4340-BA3A-3C63EA8AD102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F13A093-95A0-4340-BA3A-3C63EA8AD102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F13A093-95A0-4340-BA3A-3C63EA8AD102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F13A093-95A0-4340-BA3A-3C63EA8AD102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

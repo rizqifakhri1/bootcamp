@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/bin/Debug/net8.0/TugasFooBar
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/bin/Debug/net8.0/TugasFooBar.deps.json
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/bin/Debug/net8.0/TugasFooBar.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/bin/Debug/net8.0/TugasFooBar.dll
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/bin/Debug/net8.0/TugasFooBar.pdb
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.dll
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/refint/TugasFooBar.dll
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.pdb
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/ref/TugasFooBar.dll

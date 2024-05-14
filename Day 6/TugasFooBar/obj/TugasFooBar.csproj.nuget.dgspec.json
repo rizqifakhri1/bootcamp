@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RizqiBatch10\\Day 6\\BelajarFooBar\\BelajarFooBar.csproj": {}
+    "/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/TugasFooBar.csproj": {}
   },
   "projects": {
-    "C:\\RizqiBatch10\\Day 6\\BelajarFooBar\\BelajarFooBar.csproj": {
+    "/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/TugasFooBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RizqiBatch10\\Day 6\\BelajarFooBar\\BelajarFooBar.csproj",
-        "projectName": "BelajarFooBar",
-        "projectPath": "C:\\RizqiBatch10\\Day 6\\BelajarFooBar\\BelajarFooBar.csproj",
-        "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
-        "outputPath": "C:\\RizqiBatch10\\Day 6\\BelajarFooBar\\obj\\",
+        "projectUniqueName": "/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/TugasFooBar.csproj",
+        "projectName": "TugasFooBar",
+        "projectPath": "/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/TugasFooBar.csproj",
+        "packagesPath": "/Users/rizqifakhri/.nuget/packages/",
+        "outputPath": "/Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/rizqifakhri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
