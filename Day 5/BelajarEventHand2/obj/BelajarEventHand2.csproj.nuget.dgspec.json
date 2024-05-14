@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RizqiBatch10\\Day 5\\BelajarEventHand2\\BelajarEventHand2.csproj": {}
+    "/Users/rizqifakhri/bootcamp/Day 5/BelajarEventHand2/BelajarEventHand2.csproj": {}
   },
   "projects": {
-    "C:\\RizqiBatch10\\Day 5\\BelajarEventHand2\\BelajarEventHand2.csproj": {
+    "/Users/rizqifakhri/bootcamp/Day 5/BelajarEventHand2/BelajarEventHand2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RizqiBatch10\\Day 5\\BelajarEventHand2\\BelajarEventHand2.csproj",
+        "projectUniqueName": "/Users/rizqifakhri/bootcamp/Day 5/BelajarEventHand2/BelajarEventHand2.csproj",
         "projectName": "BelajarEventHand2",
-        "projectPath": "C:\\RizqiBatch10\\Day 5\\BelajarEventHand2\\BelajarEventHand2.csproj",
-        "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
-        "outputPath": "C:\\RizqiBatch10\\Day 5\\BelajarEventHand2\\obj\\",
+        "projectPath": "/Users/rizqifakhri/bootcamp/Day 5/BelajarEventHand2/BelajarEventHand2.csproj",
+        "packagesPath": "/Users/rizqifakhri/.nuget/packages/",
+        "outputPath": "/Users/rizqifakhri/bootcamp/Day 5/BelajarEventHand2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/rizqifakhri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
