@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.AssemblyInfo.cs
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.sourcelink.json
+C:\RizqiBatch10\Day 6\BelajarOperator\bin\Debug\net8.0\BelajarOperator.exe
+C:\RizqiBatch10\Day 6\BelajarOperator\bin\Debug\net8.0\BelajarOperator.deps.json
+C:\RizqiBatch10\Day 6\BelajarOperator\bin\Debug\net8.0\BelajarOperator.runtimeconfig.json
+C:\RizqiBatch10\Day 6\BelajarOperator\bin\Debug\net8.0\BelajarOperator.dll
+C:\RizqiBatch10\Day 6\BelajarOperator\bin\Debug\net8.0\BelajarOperator.pdb
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.dll
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\refint\BelajarOperator.dll
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.pdb
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\BelajarOperator.genruntimeconfig.cache
+C:\RizqiBatch10\Day 6\BelajarOperator\obj\Debug\net8.0\ref\BelajarOperator.dll

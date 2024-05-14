@@ -20,14 +20,16 @@
         // string nama = null;
         // System.Console.WriteLine(nama.Length);   
 
-        static void Run()
-            {
-                Run();
-            }
+        // Stack overflow Exception
+        // static void Run()
+        // {
+        //     Run();
+        // }
+        // Masukin Try => Run();
 
         try
         {
-             Run();
+
         }
         catch (Exception ex)
         {

@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 6\BelajarNullAble\bin\Debug\net8.0\BelajarNullAble.exe
+C:\RizqiBatch10\Day 6\BelajarNullAble\bin\Debug\net8.0\BelajarNullAble.deps.json
+C:\RizqiBatch10\Day 6\BelajarNullAble\bin\Debug\net8.0\BelajarNullAble.runtimeconfig.json
+C:\RizqiBatch10\Day 6\BelajarNullAble\bin\Debug\net8.0\BelajarNullAble.dll
+C:\RizqiBatch10\Day 6\BelajarNullAble\bin\Debug\net8.0\BelajarNullAble.pdb
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.AssemblyInfo.cs
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.sourcelink.json
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.dll
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\refint\BelajarNullAble.dll
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.pdb
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\BelajarNullAble.genruntimeconfig.cache
+C:\RizqiBatch10\Day 6\BelajarNullAble\obj\Debug\net8.0\ref\BelajarNullAble.dll

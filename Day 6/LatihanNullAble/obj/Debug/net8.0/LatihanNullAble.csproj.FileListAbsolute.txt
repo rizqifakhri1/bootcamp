@@ -1,0 +1,5 @@
+C:\RizqiBatch10\Day 6\LatihanNullAble\obj\Debug\net8.0\LatihanNullAble.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 6\LatihanNullAble\obj\Debug\net8.0\LatihanNullAble.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 6\LatihanNullAble\obj\Debug\net8.0\LatihanNullAble.AssemblyInfo.cs
+C:\RizqiBatch10\Day 6\LatihanNullAble\obj\Debug\net8.0\LatihanNullAble.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 6\LatihanNullAble\obj\Debug\net8.0\LatihanNullAble.sourcelink.json

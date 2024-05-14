@@ -1,0 +1,15 @@
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.AssemblyInfoInputs.cache
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.AssemblyInfo.cs
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.csproj.CoreCompileInputs.cache
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.sourcelink.json
+C:\RizqiBatch10\Day 6\BelajarPartialClass\bin\Debug\net8.0\BelajarPartialClass.exe
+C:\RizqiBatch10\Day 6\BelajarPartialClass\bin\Debug\net8.0\BelajarPartialClass.deps.json
+C:\RizqiBatch10\Day 6\BelajarPartialClass\bin\Debug\net8.0\BelajarPartialClass.runtimeconfig.json
+C:\RizqiBatch10\Day 6\BelajarPartialClass\bin\Debug\net8.0\BelajarPartialClass.dll
+C:\RizqiBatch10\Day 6\BelajarPartialClass\bin\Debug\net8.0\BelajarPartialClass.pdb
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.dll
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\refint\BelajarPartialClass.dll
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.pdb
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\BelajarPartialClass.genruntimeconfig.cache
+C:\RizqiBatch10\Day 6\BelajarPartialClass\obj\Debug\net8.0\ref\BelajarPartialClass.dll

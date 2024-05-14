@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 
 // Declare a delegate type with the signature for the event handler method.
 public delegate void ButtonClickedEventHandler(object sender, EventArgs e);
@@ -7,15 +7,16 @@ public delegate void ButtonClickedEventHandler(object sender, EventArgs e);
 public class Button
 {
     public event ButtonClickedEventHandler Clicked;
-		// In the class that raises the event, create a method to invoke the event.
+    // In the class that raises the event, create a method to invoke the event.
     private void button1_Click(object sender, System.EventArgs e)
-{  
-  //.....
-}   public void OnClicked()
+    {
+        //.....
+    }
+    public void OnClicked()
     {
         if (Clicked != null)
         {
-						// Invoke the event by calling the delegate.
+            // Invoke the event by calling the delegate.
             Clicked(this, EventArgs.Empty);
         }
     }
@@ -33,13 +34,13 @@ public class Form
 
 public static class Program
 {
-		// In the main program, create an instance of the Button class and subscribe to the Clicked event.
+    // In the main program, create an instance of the Button class and subscribe to the Clicked event.
     public static void Main()
     {
         Form form = new Form();
         Button button = new Button();
         button.Clicked += form.HandleButtonClick;
-		// Finally, raise the event by calling the event invoker method.
+        // Finally, raise the event by calling the event invoker method.
         button.OnClicked();
     }
 }
