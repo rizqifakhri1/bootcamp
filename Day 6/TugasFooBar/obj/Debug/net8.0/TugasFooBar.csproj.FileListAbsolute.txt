@@ -13,3 +13,18 @@
 /Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.pdb
 /Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/TugasFooBar.genruntimeconfig.cache
 /Users/rizqifakhri/bootcamp/Day 6/TugasFooBar/obj/Debug/net8.0/ref/TugasFooBar.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\bin\Debug\net8.0\TugasFooBar.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\bin\Debug\net8.0\TugasFooBar.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\bin\Debug\net8.0\TugasFooBar.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\bin\Debug\net8.0\TugasFooBar.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\bin\Debug\net8.0\TugasFooBar.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\refint\TugasFooBar.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\TugasFooBar.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 6\TugasFooBar\obj\Debug\net8.0\ref\TugasFooBar.dll
