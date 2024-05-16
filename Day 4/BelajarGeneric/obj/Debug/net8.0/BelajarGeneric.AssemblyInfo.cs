@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarGeneric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93489e66e2df5a88af6da9670ed05752c54e924b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c5d9e7001b3e7aabb572d3badd1230fbd7922eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarGeneric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarGeneric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
