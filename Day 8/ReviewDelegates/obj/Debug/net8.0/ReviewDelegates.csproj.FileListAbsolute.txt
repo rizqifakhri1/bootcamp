@@ -1,0 +1,20 @@
+D:\Rizqi Fakhri - B10\Bootcamp\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\bin\Debug\net8.0\ReviewDelegates.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\bin\Debug\net8.0\ReviewDelegates.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\bin\Debug\net8.0\ReviewDelegates.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\bin\Debug\net8.0\ReviewDelegates.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\bin\Debug\net8.0\ReviewDelegates.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\refint\ReviewDelegates.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ReviewDelegates.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 8\ReviewDelegates\obj\Debug\net8.0\ref\ReviewDelegates.dll
