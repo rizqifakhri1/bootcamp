@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\bin\Debug\net8.0\ManualGC.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\bin\Debug\net8.0\ManualGC.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\bin\Debug\net8.0\ManualGC.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\bin\Debug\net8.0\ManualGC.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\bin\Debug\net8.0\ManualGC.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\refint\ManualGC.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ManualGC.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\ManualGC\obj\Debug\net8.0\ref\ManualGC.dll

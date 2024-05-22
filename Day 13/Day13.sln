@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarGC", "BelajarGC\BelajarGC.csproj", "{C4DAECC4-F58F-4404-BA4B-D99630819FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualGC", "ManualGC\ManualGC.csproj", "{E0163176-AEB4-45E5-80A0-C0560984DD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarDispose", "BelajarDispose\BelajarDispose.csproj", "{ED201C6E-8AC8-452C-889A-80FDF3C94216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4DAECC4-F58F-4404-BA4B-D99630819FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DAECC4-F58F-4404-BA4B-D99630819FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DAECC4-F58F-4404-BA4B-D99630819FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DAECC4-F58F-4404-BA4B-D99630819FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0163176-AEB4-45E5-80A0-C0560984DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0163176-AEB4-45E5-80A0-C0560984DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0163176-AEB4-45E5-80A0-C0560984DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0163176-AEB4-45E5-80A0-C0560984DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED201C6E-8AC8-452C-889A-80FDF3C94216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED201C6E-8AC8-452C-889A-80FDF3C94216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED201C6E-8AC8-452C-889A-80FDF3C94216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED201C6E-8AC8-452C-889A-80FDF3C94216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
