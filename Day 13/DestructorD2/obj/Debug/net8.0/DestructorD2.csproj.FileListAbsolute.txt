@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\bin\Debug\net8.0\DestructorD2.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\bin\Debug\net8.0\DestructorD2.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\bin\Debug\net8.0\DestructorD2.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\bin\Debug\net8.0\DestructorD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\bin\Debug\net8.0\DestructorD2.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\refint\DestructorD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\DestructorD2.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\DestructorD2\obj\Debug\net8.0\ref\DestructorD2.dll

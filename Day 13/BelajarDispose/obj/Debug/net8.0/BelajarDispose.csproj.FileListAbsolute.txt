@@ -1,0 +1,5 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarDispose\obj\Debug\net8.0\BelajarDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarDispose\obj\Debug\net8.0\BelajarDispose.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarDispose\obj\Debug\net8.0\BelajarDispose.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarDispose\obj\Debug\net8.0\BelajarDispose.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarDispose\obj\Debug\net8.0\BelajarDispose.sourcelink.json

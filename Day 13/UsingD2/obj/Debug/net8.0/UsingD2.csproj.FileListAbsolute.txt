@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\bin\Debug\net8.0\UsingD2.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\bin\Debug\net8.0\UsingD2.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\bin\Debug\net8.0\UsingD2.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\bin\Debug\net8.0\UsingD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\bin\Debug\net8.0\UsingD2.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\refint\UsingD2.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\UsingD2.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\UsingD2\obj\Debug\net8.0\ref\UsingD2.dll

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/rizqifakhri/.nuget/packages/": {}
+    "C:\\Users\\Batch 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/BelajarGC.csproj",
+      "projectUniqueName": "D:\\Rizqi Fakhri - B10\\Bootcamp\\Day 13\\BelajarGC\\BelajarGC.csproj",
       "projectName": "BelajarGC",
-      "projectPath": "/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/BelajarGC.csproj",
-      "packagesPath": "/Users/rizqifakhri/.nuget/packages/",
-      "outputPath": "/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/",
+      "projectPath": "D:\\Rizqi Fakhri - B10\\Bootcamp\\Day 13\\BelajarGC\\BelajarGC.csproj",
+      "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
+      "outputPath": "D:\\Rizqi Fakhri - B10\\Bootcamp\\Day 13\\BelajarGC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rizqifakhri/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\bin\Debug\net8.0\BelajarGCDay2StringBuilder.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\bin\Debug\net8.0\BelajarGCDay2StringBuilder.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\bin\Debug\net8.0\BelajarGCDay2StringBuilder.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\bin\Debug\net8.0\BelajarGCDay2StringBuilder.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\bin\Debug\net8.0\BelajarGCDay2StringBuilder.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\refint\BelajarGCDay2StringBuilder.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\BelajarGCDay2StringBuilder.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGCDay2StringBuilder\obj\Debug\net8.0\ref\BelajarGCDay2StringBuilder.dll
