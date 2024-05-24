@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarGC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db2f3292aaa008f0f6e082dd2ffe0f003e0e0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b301eb4e7686a6e1b845b6ffa109d6e8a54f3eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarGC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarGC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,15 +1,30 @@
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.GeneratedMSBuildEditorConfig.editorconfig
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.AssemblyInfoInputs.cache
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.AssemblyInfo.cs
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.csproj.CoreCompileInputs.cache
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.sourcelink.json
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\bin\Debug\net8.0\BelajarGC.exe
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\bin\Debug\net8.0\BelajarGC.deps.json
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\bin\Debug\net8.0\BelajarGC.runtimeconfig.json
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\bin\Debug\net8.0\BelajarGC.dll
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\bin\Debug\net8.0\BelajarGC.pdb
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.dll
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\refint\BelajarGC.dll
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.pdb
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\BelajarGC.genruntimeconfig.cache
-D:\Rizqi Fakhri - B10\Bootcamp\Day 13\BelajarGC\obj\Debug\net8.0\ref\BelajarGC.dll
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.GeneratedMSBuildEditorConfig.editorconfig
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.AssemblyInfoInputs.cache
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.AssemblyInfo.cs
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.csproj.CoreCompileInputs.cache
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.sourcelink.json
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.exe
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.deps.json
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.runtimeconfig.json
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.dll
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.pdb
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.dll
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/refint/BelajarGC.dll
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.pdb
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.genruntimeconfig.cache
+D:/Rizqi Fakhri - B10/Bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/ref/BelajarGC.dll
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.deps.json
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.dll
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/bin/Debug/net8.0/BelajarGC.pdb
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.dll
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/refint/BelajarGC.dll
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.pdb
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/BelajarGC.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 13/BelajarGC/obj/Debug/net8.0/ref/BelajarGC.dll
