@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\bin\Debug\net8.0\LatihanThread.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\bin\Debug\net8.0\LatihanThread.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\bin\Debug\net8.0\LatihanThread.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\bin\Debug\net8.0\LatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\bin\Debug\net8.0\LatihanThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\refint\LatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\LatihanThread.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\LatihanThread\obj\Debug\net8.0\ref\LatihanThread.dll

@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\bin\Debug\net8.0\BelajarTask.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\bin\Debug\net8.0\BelajarTask.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\bin\Debug\net8.0\BelajarTask.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\bin\Debug\net8.0\BelajarTask.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\bin\Debug\net8.0\BelajarTask.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\refint\BelajarTask.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\BelajarTask.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarTask\obj\Debug\net8.0\ref\BelajarTask.dll

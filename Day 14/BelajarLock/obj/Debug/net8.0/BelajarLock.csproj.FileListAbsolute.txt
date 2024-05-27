@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\bin\Debug\net8.0\BelajarLock.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\bin\Debug\net8.0\BelajarLock.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\bin\Debug\net8.0\BelajarLock.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\bin\Debug\net8.0\BelajarLock.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\bin\Debug\net8.0\BelajarLock.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\refint\BelajarLock.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\BelajarLock.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarLock\obj\Debug\net8.0\ref\BelajarLock.dll

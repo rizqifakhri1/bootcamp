@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\bin\Debug\net8.0\ContohLatihanThread.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\bin\Debug\net8.0\ContohLatihanThread.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\bin\Debug\net8.0\ContohLatihanThread.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\bin\Debug\net8.0\ContohLatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\bin\Debug\net8.0\ContohLatihanThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\refint\ContohLatihanThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ContohLatihanThread.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\ContohLatihanThread\obj\Debug\net8.0\ref\ContohLatihanThread.dll

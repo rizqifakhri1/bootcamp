@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\bin\Debug\net8.0\BelajarMultiThread.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\bin\Debug\net8.0\BelajarMultiThread.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\bin\Debug\net8.0\BelajarMultiThread.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\bin\Debug\net8.0\BelajarMultiThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\bin\Debug\net8.0\BelajarMultiThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\refint\BelajarMultiThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\BelajarMultiThread.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThread\obj\Debug\net8.0\ref\BelajarMultiThread.dll

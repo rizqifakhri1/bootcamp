@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DestructorD2P2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d176f3e4e97e01aea985ddea6c3c7985c8e9a86a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c766ac4426eb400ff94f0b6f4972a47f681c921")]
 [assembly: System.Reflection.AssemblyProductAttribute("DestructorD2P2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DestructorD2P2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

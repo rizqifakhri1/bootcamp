@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\bin\Debug\net8.0\BelajarMultiThreadReturnValue.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\bin\Debug\net8.0\BelajarMultiThreadReturnValue.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\bin\Debug\net8.0\BelajarMultiThreadReturnValue.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\bin\Debug\net8.0\BelajarMultiThreadReturnValue.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\bin\Debug\net8.0\BelajarMultiThreadReturnValue.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\refint\BelajarMultiThreadReturnValue.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\BelajarMultiThreadReturnValue.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarMultiThreadReturnValue\obj\Debug\net8.0\ref\BelajarMultiThreadReturnValue.dll

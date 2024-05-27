@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\bin\Debug\net8.0\BelajarSingleThread.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\bin\Debug\net8.0\BelajarSingleThread.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\bin\Debug\net8.0\BelajarSingleThread.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\bin\Debug\net8.0\BelajarSingleThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\bin\Debug\net8.0\BelajarSingleThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\refint\BelajarSingleThread.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\BelajarSingleThread.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 14\BelajarSingleThread\obj\Debug\net8.0\ref\BelajarSingleThread.dll
