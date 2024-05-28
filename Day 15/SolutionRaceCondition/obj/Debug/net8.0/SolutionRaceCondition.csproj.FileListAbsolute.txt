@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/bin/Debug/net8.0/SolutionRaceCondition
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/bin/Debug/net8.0/SolutionRaceCondition.deps.json
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/bin/Debug/net8.0/SolutionRaceCondition.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/bin/Debug/net8.0/SolutionRaceCondition.dll
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/bin/Debug/net8.0/SolutionRaceCondition.pdb
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.dll
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/refint/SolutionRaceCondition.dll
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.pdb
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/SolutionRaceCondition.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 15/SolutionRaceCondition/obj/Debug/net8.0/ref/SolutionRaceCondition.dll

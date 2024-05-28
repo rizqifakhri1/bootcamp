@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/bin/Debug/net8.0/ManualResetEvent
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/bin/Debug/net8.0/ManualResetEvent.deps.json
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/bin/Debug/net8.0/ManualResetEvent.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/bin/Debug/net8.0/ManualResetEvent.dll
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/bin/Debug/net8.0/ManualResetEvent.pdb
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.dll
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/refint/ManualResetEvent.dll
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.pdb
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ManualResetEvent.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 15/ManualResetEvent/obj/Debug/net8.0/ref/ManualResetEvent.dll
