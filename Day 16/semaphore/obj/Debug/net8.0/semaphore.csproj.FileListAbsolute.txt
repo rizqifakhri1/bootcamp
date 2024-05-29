@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/bin/Debug/net8.0/semaphore
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/bin/Debug/net8.0/semaphore.deps.json
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/bin/Debug/net8.0/semaphore.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/bin/Debug/net8.0/semaphore.dll
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/bin/Debug/net8.0/semaphore.pdb
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.dll
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/refint/semaphore.dll
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.pdb
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/semaphore.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 16/semaphore/obj/Debug/net8.0/ref/semaphore.dll
