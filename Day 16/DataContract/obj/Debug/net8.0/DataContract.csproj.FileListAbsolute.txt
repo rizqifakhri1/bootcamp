@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\bin\Debug\net8.0\DataContract.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\bin\Debug\net8.0\DataContract.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\bin\Debug\net8.0\DataContract.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\bin\Debug\net8.0\DataContract.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\bin\Debug\net8.0\DataContract.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\refint\DataContract.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\DataContract.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\DataContract\obj\Debug\net8.0\ref\DataContract.dll

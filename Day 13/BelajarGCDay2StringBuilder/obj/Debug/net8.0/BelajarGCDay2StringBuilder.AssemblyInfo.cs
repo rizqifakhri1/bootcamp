@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarGCDay2StringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c766ac4426eb400ff94f0b6f4972a47f681c921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6843939e82ecfcd8d6159ef258d3dcf888dfac6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarGCDay2StringBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarGCDay2StringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

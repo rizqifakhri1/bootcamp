@@ -1,0 +1,5 @@
+[
+  { "Exp": 100, "Gold": 300, "_money": 500, "_name": "Juan" },
+  { "Exp": 50, "Gold": 200, "_money": 400, "_name": "Redo" },
+  { "Exp": 300, "Gold": 100, "_money": 700, "_name": "Didi" }
+]

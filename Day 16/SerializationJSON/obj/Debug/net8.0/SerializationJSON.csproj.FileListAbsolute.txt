@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\bin\Debug\net8.0\SerializationJSON.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\bin\Debug\net8.0\SerializationJSON.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\bin\Debug\net8.0\SerializationJSON.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\bin\Debug\net8.0\SerializationJSON.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\bin\Debug\net8.0\SerializationJSON.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\refint\SerializationJSON.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\SerializationJSON.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\SerializationJSON\obj\Debug\net8.0\ref\SerializationJSON.dll

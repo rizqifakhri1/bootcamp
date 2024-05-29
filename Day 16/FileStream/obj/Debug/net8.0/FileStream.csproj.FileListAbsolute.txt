@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\bin\Debug\net8.0\FileStream.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\bin\Debug\net8.0\FileStream.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\bin\Debug\net8.0\FileStream.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\bin\Debug\net8.0\FileStream.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\bin\Debug\net8.0\FileStream.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\refint\FileStream.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\FileStream.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\FileStream\obj\Debug\net8.0\ref\FileStream.dll

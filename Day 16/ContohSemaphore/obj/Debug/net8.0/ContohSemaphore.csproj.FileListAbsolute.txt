@@ -1,0 +1,15 @@
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\bin\Debug\net8.0\ContohSemaphore.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\bin\Debug\net8.0\ContohSemaphore.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\bin\Debug\net8.0\ContohSemaphore.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\bin\Debug\net8.0\ContohSemaphore.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\bin\Debug\net8.0\ContohSemaphore.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\refint\ContohSemaphore.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ContohSemaphore.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day 16\ContohSemaphore\obj\Debug\net8.0\ref\ContohSemaphore.dll
