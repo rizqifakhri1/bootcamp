@@ -195,10 +195,10 @@ public class GameController
             return false;
         }
 
-        DiscardPile.Push(cardChosen);
-        CurrentRevealCard = cardChosen;
-        PlayerHand[player].Remove(cardChosen);
-        cardChosen.ExecuteCardEffect(this);
+        DiscardPile.Push(cardChosen); // Kartu dimasukkan ke DiscardPile
+        CurrentRevealCard = cardChosen; // Kartu dimasukkan sebagai kartu terakhir yang dimainkan
+        PlayerHand[player].Remove(cardChosen); // Kartu dihapus dari tangan pemain
+        cardChosen.ExecuteCardEffect(this); // Efek kartu dieksekusi
         return true;
     }
 
@@ -245,6 +245,7 @@ public class GameController
         return WinnerOrder;
     }
 
+    //Membuat teks di tengah
     private void DisplayCards(string title, List<ICard> cards)
     {
         int totalWidth = 68; // Panjang total baris
