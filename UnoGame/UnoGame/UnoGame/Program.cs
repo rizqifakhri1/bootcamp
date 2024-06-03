@@ -21,7 +21,10 @@ class Program
         gameControl.AddPlayers(numOfPlayers);
 
         Console.Clear();
-        Console.WriteLine("Drawing first card...");
+        // Console.WriteLine("Drawing first card...");
+        Console.WriteLine("┌──────────────────────────────────────────────────────────────────┐");
+        Console.WriteLine("│                      Drawing first card...                       │");
+        Console.WriteLine("└──────────────────────────────────────────────────────────────────┘");
         await AnimateLoading("Preparing game", 3); // 3 detik animasi loading
         var firstCard = gameControl.PrepareGame();
         Console.WriteLine();

@@ -275,10 +275,10 @@ public class GameController
     private int GetCardIndex(int availableCardCount)
     {
         int indexVal;
-        var input = GetInput("Choose a card by index: ");
+        var input = GetInput("Choose a card by index (Avalible Card): ");
         while (!int.TryParse(input, out indexVal) || indexVal < 1 || indexVal > availableCardCount)
         {
-            input = GetInput("Try again... Choose only available cards by index (ex: 1)");
+            input = GetInput("Try again.Choose only available cards by index (ex: 1)");
         }
         return indexVal;
     }

@@ -13,6 +13,6 @@ public class Number : Card
     }
     public override CardVariants ExecuteCardEffect(GameController gameController)
     {
-        return CardVariants.Zero;
+        return CardVariants.One;
     }
 }
