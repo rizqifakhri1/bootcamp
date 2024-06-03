@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanUno", "LatihanUno\LatihanUno.csproj", "{1B10C4AA-D4A3-445C-A649-FF99964DCB28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCardTesting", "ShowCardTesting\ShowCardTesting.csproj", "{7B76CA12-3B66-4C00-8507-42B72B5D00A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B10C4AA-D4A3-445C-A649-FF99964DCB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B10C4AA-D4A3-445C-A649-FF99964DCB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B10C4AA-D4A3-445C-A649-FF99964DCB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B10C4AA-D4A3-445C-A649-FF99964DCB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B76CA12-3B66-4C00-8507-42B72B5D00A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B76CA12-3B66-4C00-8507-42B72B5D00A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B76CA12-3B66-4C00-8507-42B72B5D00A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B76CA12-3B66-4C00-8507-42B72B5D00A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

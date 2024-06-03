@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/bin/Debug/net8.0/LatihanUno
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/bin/Debug/net8.0/LatihanUno.deps.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/bin/Debug/net8.0/LatihanUno.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/bin/Debug/net8.0/LatihanUno.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/bin/Debug/net8.0/LatihanUno.pdb
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.sourcelink.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/refint/LatihanUno.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.pdb
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/LatihanUno.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/LatihanUno/obj/Debug/net8.0/ref/LatihanUno.dll

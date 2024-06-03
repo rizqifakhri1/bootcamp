@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/UnoGame
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/UnoGame.deps.json
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/UnoGame.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/UnoGame.dll
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/UnoGame.pdb
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.sourcelink.json
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.dll
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/refint/UnoGame.dll
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.pdb
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/ref/UnoGame.dll

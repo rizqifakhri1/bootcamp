@@ -21,6 +21,6 @@
                 System.Console.WriteLine($"Counter From: {i}");
             }
         }
-        await Task.Delay(100);
+        await Task.Delay(100); // await dikeluarkan dari loop
     }
 }

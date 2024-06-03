@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.sourcelink.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/bin/Debug/net8.0/ShowCardTesting
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/bin/Debug/net8.0/ShowCardTesting.deps.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/bin/Debug/net8.0/ShowCardTesting.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/bin/Debug/net8.0/ShowCardTesting.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/bin/Debug/net8.0/ShowCardTesting.pdb
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/refint/ShowCardTesting.dll
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.pdb
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ShowCardTesting.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/LatihanUNO/ShowCardTesting/obj/Debug/net8.0/ref/ShowCardTesting.dll
