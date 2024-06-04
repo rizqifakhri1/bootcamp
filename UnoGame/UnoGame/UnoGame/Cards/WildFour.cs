@@ -9,32 +9,6 @@ public class WildFour: Card
         Type = type;
         Color = color;
     }
-    // public override CardVariants ExecuteCardEffect(GameController gameController)
-    // {
-    //     gameController.Divider.Invoke();
-    //     gameController.GameInfo.Invoke("Change Color!\n");
-
-    //     string inputColor = gameController.GetInput.Invoke("Choose Color (Red, Green, Blue, Yellow)");
-    //     ColorVariants userPickColor;
-
-    //     if (!TryParseColor(inputColor, out userPickColor))
-    //     {
-    //         gameController.GameInfo.Invoke("Invalid color choice. Please choose again.");
-    //         return CardVariants.Wild; // atau lakukan sesuatu yang sesuai dengan logika aplikasi Anda
-    //     }
-
-    //     gameController.Divider.Invoke();
-    //     gameController.GameInfo.Invoke($"{gameController.NextPlayer.Name} Draw Four Card");
-    //     for (int i=0; i<4; i++)
-    //     {
-    //         gameController.PlayerDrawCard(gameController.NextPlayer);
-    //     }
-
-    //     gameController.CurrentRevealCard.Color = userPickColor;
-    //     gameController.NextTurn();
-    //     gameController.Divider.Invoke();
-    //     return CardVariants.Wild;
-    // }
     public override CardVariants ExecuteCardEffect(GameController gameController)
 {
     gameController.Divider.Invoke();

@@ -7,6 +7,7 @@ namespace UnoGame;
 public class GameController
 {
     public Func<string, string> GetInput { get; set; } = null!;
+    //Secara default Func meminta input
     public Action<string> GameInfo { get; set; }
     public Action Divider { get; set; }
     public GameRotation Rotation { get; private set; }
