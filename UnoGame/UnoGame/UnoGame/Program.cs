@@ -25,7 +25,7 @@ class Program
         Console.WriteLine("┌──────────────────────────────────────────────────────────────────┐");
         Console.WriteLine("│                      Drawing first card...                       │");
         Console.WriteLine("└──────────────────────────────────────────────────────────────────┘");
-        await AnimateLoading("Preparing game", 3); // 3 detik animasi loading
+        // await AnimateLoading("Preparing game", 3); // 3 detik animasi loading
         var firstCard = gameControl.PrepareGame();
         Console.WriteLine();
         Console.WriteLine("First Card:");

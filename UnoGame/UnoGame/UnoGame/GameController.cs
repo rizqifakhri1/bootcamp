@@ -31,14 +31,10 @@ public class GameController
 
     public ICard PrepareGame()
     {
-        CardDeck.ShuffleDeck();
+        ShuffleDeck();
+        DealInitialCards();
         CurrentPlayer = PlayerHand.Keys.ElementAt(CurrentPlayerIndex);
         NextPlayer = PlayerHand.Keys.ElementAt(NextPlayerIndex);
-
-        foreach (IPlayer player in PlayerHand.Keys)
-        {
-            SetPlayerHand(player, 7);
-        }
 
         ICard firstCard;
         do
@@ -50,6 +46,19 @@ public class GameController
         CurrentRevealCard = firstCard;
 
         return firstCard;
+    }
+
+    private void ShuffleDeck()
+    {
+        CardDeck.ShuffleDeck();
+    }
+
+    private void DealInitialCards()
+    {
+        foreach (IPlayer player in PlayerHand.Keys)
+        {
+            SetPlayerHand(player, 7);
+        }
     }
 
     public void AddPlayers(int numOfPlayers)
@@ -78,21 +87,14 @@ public class GameController
 
     private async Task PlayerTurn()
     {
-        var currentPlayer = CurrentPlayer;
-        var currentRevealedCard = CurrentRevealCard;
+        var currentPlayer = GetCurrentPlayer();
+        var currentRevealedCard = GetCurrentRevealCard();
         var possibleCards = GetPossibleCards(currentPlayer).ToList();
-        var otherCards = GetPlayerHand(currentPlayer).Where(card => !possibleCards.Contains(card)).ToList();
+        var otherCards = GetOtherPlayerCards(currentPlayer);
 
-        Console.Clear();
-        // GameInfo?.Invoke(CenterText("Last Card Played:", 70));
-        GameInfo?.Invoke("┌──────────────────────────────────────────────────────────────────┐");
-        GameInfo?.Invoke("│                        Last Card Played                          │");
-        GameInfo?.Invoke("└──────────────────────────────────────────────────────────────────┘");
-        UserInterface.DisplayCard(currentRevealedCard);
-        Console.WriteLine();
-        GameInfo?.Invoke("┌──────────────────────────────────────────────────────────────────┐");
-        GameInfo?.Invoke($"│{CenterText($"{currentPlayer.Name}'s turn", 66)}│");
-        GameInfo?.Invoke("└──────────────────────────────────────────────────────────────────┘");
+        ClearConsole();
+        DisplayLastCardPlayed(currentRevealedCard);
+        DisplayPlayerTurnMessage(currentPlayer);
 
         if (possibleCards.Any())
         {
@@ -101,29 +103,89 @@ public class GameController
 
             var indexVal = GetCardIndex(possibleCards.Count);
             var playedCard = possibleCards[indexVal - 1];
-            PlayerPlayCard(currentPlayer, playedCard);
-            GameInfo?.Invoke($"{currentPlayer.Name} plays");
-            UserInterface.DisplayCard(playedCard);
+            PlayCard(currentPlayer, playedCard);
+            DisplayPlayerPlaysCardMessage(currentPlayer, playedCard);
+            // UserInterface.DisplayCard(playedCard);
         }
         else
         {
-            GameInfo?.Invoke("(No available cards to play)");
+            DisplayNoAvailableCardsMessage();
             DisplayCards("Cards in hand", otherCards);
-
-            GameInfo?.Invoke("No cards to play... drawing card");
-            await Task.Delay(2000);
-            var newCard = PlayerDrawCard(currentPlayer);
-            GameInfo?.Invoke($"Drawn Card: {UserInterface.CardToString(newCard)}");
-
-            if (PossibleCard(newCard))
-            {
-                PlayerPlayCard(currentPlayer, newCard);
-                GameInfo?.Invoke($"{currentPlayer.Name} plays");
-                UserInterface.DisplayCard(newCard);
-            }
-            await Task.Delay(1500);
+            DrawCardAndPlayIfPossible(currentPlayer);
         }
+
         await Task.Delay(2500);
+    }
+
+    private ICard GetCurrentRevealCard()
+    {
+        return CurrentRevealCard;
+    }
+
+    private IPlayer GetCurrentPlayer()
+    {
+        return CurrentPlayer;
+    }
+
+    private void ClearConsole()
+    {
+        Console.Clear();
+    }
+
+    private void DisplayLastCardPlayed(ICard currentRevealedCard)
+    {
+        //Sudah di pindah ke UserInterface
+        // GameInfo?.Invoke("┌──────────────────────────────────────────────────────────────────┐");
+        // GameInfo?.Invoke("│                        Last Card Played                          │");
+        // GameInfo?.Invoke("└──────────────────────────────────────────────────────────────────┘");
+        UserInterface.HeaderLastCardDisplay();
+        UserInterface.DisplayCard(currentRevealedCard);
+    }
+
+    private void DisplayPlayerTurnMessage(IPlayer currentPlayer)
+    {
+        //Sudah di pindah ke UserInterface
+        // GameInfo?.Invoke("┌──────────────────────────────────────────────────────────────────┐");
+        // GameInfo?.Invoke($"│{CenterText($"{currentPlayer.Name}'s turn", 66)}│");
+        // GameInfo?.Invoke("└──────────────────────────────────────────────────────────────────┘");
+        UserInterface.DisplayName(currentPlayer);
+    }
+
+    private List<ICard> GetOtherPlayerCards(IPlayer currentPlayer)
+    {
+        return GetPlayerHand(currentPlayer).Where(card => !GetPossibleCards(currentPlayer).Contains(card)).ToList();
+    }
+
+    private void PlayCard(IPlayer currentPlayer, ICard playedCard)
+    {
+        PlayerPlayCard(currentPlayer, playedCard);
+    }
+
+    private void DisplayPlayerPlaysCardMessage(IPlayer currentPlayer, ICard playedCard)
+    {
+        GameInfo?.Invoke($"{currentPlayer.Name} plays");
+        UserInterface.DisplayCard(playedCard);
+    }
+
+    private void DisplayNoAvailableCardsMessage()
+    {
+        GameInfo?.Invoke("(No available cards to play)");
+    }
+
+    private void DrawCardAndPlayIfPossible(IPlayer currentPlayer)
+    {
+        GameInfo?.Invoke("No cards to play... drawing card");
+        // await Task.Delay(2000);
+        var newCard = PlayerDrawCard(currentPlayer);
+        GameInfo?.Invoke($"Drawn Card: {UserInterface.CardToString(newCard)}");
+
+        if (PossibleCard(newCard))
+        {
+            PlayCard(currentPlayer, newCard);
+            DisplayPlayerPlaysCardMessage(currentPlayer, newCard);
+        }
+
+        // await Task.Delay(1500);
     }
 
     public void DisplayWinnerOrder()
