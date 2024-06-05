@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicrosoftExtLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b0f259f64371e92edef97d306cea3b50ca87311")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a82c2abfdbb05bff9f20ff58933d6b18710344e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicrosoftExtLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicrosoftExtLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
