@@ -27,3 +27,32 @@
 /Users/rizqifakhri/bootcamp/Day21/MicrosoftExtLog/obj/Debug/net8.0/MicrosoftExtLog.pdb
 /Users/rizqifakhri/bootcamp/Day21/MicrosoftExtLog/obj/Debug/net8.0/MicrosoftExtLog.genruntimeconfig.cache
 /Users/rizqifakhri/bootcamp/Day21/MicrosoftExtLog/obj/Debug/net8.0/ref/MicrosoftExtLog.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\MicrosoftExtLog.exe
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\MicrosoftExtLog.deps.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\MicrosoftExtLog.runtimeconfig.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\MicrosoftExtLog.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\MicrosoftExtLog.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.csproj.AssemblyReference.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.AssemblyInfoInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.AssemblyInfo.cs
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.csproj.CoreCompileInputs.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.sourcelink.json
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\Microsof.C49628C0.Up2Date
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\refint\MicrosoftExtLog.dll
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.pdb
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\MicrosoftExtLog.genruntimeconfig.cache
+D:\Rizqi Fakhri - B10\Bootcamp\Day21\MicrosoftExtLog\obj\Debug\net8.0\ref\MicrosoftExtLog.dll
