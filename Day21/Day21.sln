@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person.Test", "Person.Test\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Test.X", "Calculator.Test.X\Calculator.Test.X.csproj", "{0D825791-F63E-4638-8572-D585B8C5CFA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftExtLog", "MicrosoftExtLog\MicrosoftExtLog.csproj", "{FADEC343-7512-4AC7-BA1B-CABEB120DF7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{0D825791-F63E-4638-8572-D585B8C5CFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D825791-F63E-4638-8572-D585B8C5CFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D825791-F63E-4638-8572-D585B8C5CFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADEC343-7512-4AC7-BA1B-CABEB120DF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADEC343-7512-4AC7-BA1B-CABEB120DF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADEC343-7512-4AC7-BA1B-CABEB120DF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADEC343-7512-4AC7-BA1B-CABEB120DF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -10,7 +10,7 @@ public class GameController
     //Secara default Func meminta input
     public Action<string> GameInfo { get; set; }
     public Action Divider { get; set; }
-    public GameRotation Rotation { get; private set; }
+    public GameRotation Rotation { get; private set; } //Set di ubah menjadi public untuk unit test
     public Stack<ICard> DiscardPile { get; private set; }
     public IDeck CardDeck { get; private set; }
     public ICard CurrentRevealCard { get; set; } = null!;
@@ -70,6 +70,21 @@ public class GameController
             InsertPlayer(new Player(playerName, i));
         }
     }
+
+//     public void AddPlayers(int numOfPlayers)
+// {
+//     if (CardDeck == null)
+//     {
+//         throw new InvalidOperationException("CardDeck is not initialized.");
+//     }
+
+//     for (var i = 0; i < numOfPlayers; i++)
+//     {
+//         var playerName = GetInput($"Enter Player {i + 1}'s Name:").Trim();
+//         playerName = string.IsNullOrEmpty(playerName) ? $"Player{i + 1}" : playerName;
+//         InsertPlayer(new Player(playerName, i));
+//     }
+// }
 
     public async Task PlayGame()
     {
@@ -345,5 +360,13 @@ public class GameController
         }
         return indexVal;
     }
+
+    //Code Tambahan Untuk Unit Testing (karena set rotation private)
+
+    public void SetRotation(GameRotation rotation)
+{
+    Rotation = rotation;
+}
+
 
 }
