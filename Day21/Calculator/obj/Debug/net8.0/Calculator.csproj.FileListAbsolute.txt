@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day21/Calculator/bin/Debug/net8.0/Calculator
+/Users/rizqifakhri/bootcamp/Day21/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/rizqifakhri/bootcamp/Day21/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day21/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/rizqifakhri/bootcamp/Day21/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day21/Calculator/obj/Debug/net8.0/ref/Calculator.dll

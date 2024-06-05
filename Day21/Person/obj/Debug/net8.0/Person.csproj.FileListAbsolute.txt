@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day21/Person/bin/Debug/net8.0/Person
+/Users/rizqifakhri/bootcamp/Day21/Person/bin/Debug/net8.0/Person.deps.json
+/Users/rizqifakhri/bootcamp/Day21/Person/bin/Debug/net8.0/Person.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day21/Person/bin/Debug/net8.0/Person.dll
+/Users/rizqifakhri/bootcamp/Day21/Person/bin/Debug/net8.0/Person.pdb
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.dll
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/refint/Person.dll
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.pdb
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/Person.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day21/Person/obj/Debug/net8.0/ref/Person.dll

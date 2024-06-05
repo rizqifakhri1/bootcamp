@@ -169,7 +169,7 @@ public class GameController
 
     private void DisplayNoAvailableCardsMessage()
     {
-        GameInfo?.Invoke("(No available cards to play)");
+        UserInterface.DisplayNoAvailableCard();
     }
 
     private void DrawCardAndPlayIfPossible(IPlayer currentPlayer)

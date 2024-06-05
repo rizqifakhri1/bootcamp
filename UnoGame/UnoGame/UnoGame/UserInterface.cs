@@ -46,6 +46,11 @@ public static class UserInterface
         return $"{card.Type} {card.Color}";
     }
 
+    public static void DisplayNoAvailableCard()
+    {
+        System.Console.WriteLine("(No available cards to play)");
+    }
+
     public static void PrintCards(List<ICard> cards)
     {
         foreach (var card in cards)
@@ -129,5 +134,7 @@ public static class UserInterface
             _ => ConsoleColor.White
         };
     }
+
+
 }
 

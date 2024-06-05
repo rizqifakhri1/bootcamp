@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/bin/Debug/net8.0/ReverseText
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/bin/Debug/net8.0/ReverseText.deps.json
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/bin/Debug/net8.0/ReverseText.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/bin/Debug/net8.0/ReverseText.dll
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/bin/Debug/net8.0/ReverseText.pdb
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.dll
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/refint/ReverseText.dll
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.pdb
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ReverseText.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day21/ReverseText/obj/Debug/net8.0/ref/ReverseText.dll
