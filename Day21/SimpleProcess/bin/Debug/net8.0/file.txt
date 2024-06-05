@@ -1,0 +1,18 @@
+2024-06-05 14:06:47.8264|DEBUG|SimpleProcess.Program|Starting Robot
+2024-06-05 14:06:47.8465|INFO|SimpleProcess.Program|Starging Walk
+2024-06-05 14:06:47.8499|INFO|SimpleProcess.Robot|Left Leg Move
+2024-06-05 14:06:47.8499|INFO|SimpleProcess.Robot|Right Leg Move
+2024-06-05 14:06:47.8499|INFO|SimpleProcess.Robot|Walk One Stap
+2024-06-05 14:06:47.8499|INFO|SimpleProcess.Program|Program Ended
+2024-06-05 14:07:09.8904|DEBUG|SimpleProcess.Program|Starting Robot
+2024-06-05 14:07:09.9102|INFO|SimpleProcess.Program|Starging Walk
+2024-06-05 14:07:09.9135|INFO|SimpleProcess.Robot|Left Leg Move
+2024-06-05 14:07:09.9135|INFO|SimpleProcess.Robot|Right Leg Move
+2024-06-05 14:07:09.9135|INFO|SimpleProcess.Robot|Walk One Stap
+2024-06-05 14:07:09.9135|INFO|SimpleProcess.Program|Program Ended
+2024-06-05 14:09:01.1439|DEBUG|SimpleProcess.Program|Starting Robot
+2024-06-05 14:09:01.1637|INFO|SimpleProcess.Program|Starging Walk
+2024-06-05 14:09:01.1670|INFO|SimpleProcess.Robot|Left Leg Move
+2024-06-05 14:09:01.1670|INFO|SimpleProcess.Robot|Right Leg Move
+2024-06-05 14:09:01.1670|INFO|SimpleProcess.Robot|Walk One Stap
+2024-06-05 14:09:01.1670|INFO|SimpleProcess.Program|Program Ended
