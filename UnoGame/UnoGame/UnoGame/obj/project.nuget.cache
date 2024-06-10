@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k0VJaUBs9WF7/1HatZTC+VvzqyEKSUti3r5WBm2C1DFDMgkyCGd91GZox+nFbmjIyn8LHWEqMfQ5/TD+sLylrg==",
+  "dgSpecHash": "IC+DQY8RlWn/wtETAt8f/iQrwih5h1xp99QZf9d5FERrjSOTcN3vLI3M8CV/Ov3eCwbuaVqO1mv82iZqAV8Xdg==",
   "success": true,
   "projectFilePath": "/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/UnoGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rizqifakhri/.nuget/packages/nlog/5.3.2/nlog.5.3.2.nupkg.sha512",
+    "/Users/rizqifakhri/.nuget/packages/nlog.config/4.7.15/nlog.config.4.7.15.nupkg.sha512",
+    "/Users/rizqifakhri/.nuget/packages/nlog.schema/4.7.15/nlog.schema.4.7.15.nupkg.sha512"
+  ],
   "logs": []
 }

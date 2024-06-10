@@ -13,3 +13,7 @@
 /Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.pdb
 /Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.genruntimeconfig.cache
 /Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/ref/UnoGame.dll
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/NLog.config
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/bin/Debug/net8.0/NLog.dll
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.csproj.AssemblyReference.cache
+/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame/obj/Debug/net8.0/UnoGame.csproj.Up2Date

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f0ebfcb5755c810f79d80b175aaa8cac4dfb23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0875b7997e65373ffd8ea83e79b16a9000c93e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

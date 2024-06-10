@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.14.0, )"
@@ -126,6 +130,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -6,7 +6,9 @@ class Program
     public static Logger logger = LogManager.GetCurrentClassLogger();
     static void Main()
     {
+        //Buat akses Nlog
         LogManager.Configuration = new XmlLoggingConfiguration("NLog.config");
+        
         logger.Debug("Starting Robot");
         Robot robot = new Robot();
         logger.Info("Starging Walk");

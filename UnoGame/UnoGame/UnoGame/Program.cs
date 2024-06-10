@@ -1,10 +1,24 @@
 ﻿using UnoGame;
 using UnoGame.Interface;
+using NLog;
+using NLog.Config;
 
 class Program
 {
+    public static Logger logger = LogManager.GetCurrentClassLogger();
     static async Task Main()
     {
+        LogManager.Configuration = new XmlLoggingConfiguration("NLog.config");
+        logger.Debug("Ini Debug : Starting Game");
+        logger.Debug("Ini Debug : Loh ini kesimpen dimana file.txt");
+
+        Console.WriteLine("Enter untuk memasuki game, atau tulis exit untuk keluar");
+        string exit = Console.ReadLine();
+        if (exit == "exit")
+        {
+            Environment.Exit(0);
+        }
+
         //Inisiasi Object Game Controller untuk masing" property
         var gameControl = new GameController
         {
@@ -12,6 +26,8 @@ class Program
             GetInput = GetConsoleInput,
             Divider = ConsoleDivider
         };
+        
+        
 
         Console.Clear();
         DisplayAsciiArt();
@@ -21,6 +37,7 @@ class Program
         gameControl.AddPlayers(numOfPlayers);
 
         Console.Clear();
+        
         // Console.WriteLine("Drawing first card...");
         Console.WriteLine("┌──────────────────────────────────────────────────────────────────┐");
         Console.WriteLine("│                      Drawing first card...                       │");

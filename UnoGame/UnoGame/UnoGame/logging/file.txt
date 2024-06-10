@@ -1,0 +1,2 @@
+2024-06-05 14:50:06.9908|DEBUG|UnoGame.Program|Ini Debug : Starting Game
+2024-06-05 14:50:07.0100|DEBUG|UnoGame.Program|Ini Debug : Loh ini kesimpen dimana file.txt

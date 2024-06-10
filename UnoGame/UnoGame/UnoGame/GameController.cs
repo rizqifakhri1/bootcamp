@@ -1,6 +1,8 @@
 using System.Diagnostics;
 using UnoGame.Enum;
 using UnoGame.Interface;
+using NLog;
+using NLog.Config;
 
 namespace UnoGame;
 

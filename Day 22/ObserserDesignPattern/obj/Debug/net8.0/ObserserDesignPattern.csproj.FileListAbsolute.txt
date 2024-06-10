@@ -1,0 +1,15 @@
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.AssemblyInfoInputs.cache
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.AssemblyInfo.cs
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.csproj.CoreCompileInputs.cache
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.sourcelink.json
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/bin/Debug/net8.0/ObserserDesignPattern
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/bin/Debug/net8.0/ObserserDesignPattern.deps.json
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/bin/Debug/net8.0/ObserserDesignPattern.runtimeconfig.json
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/bin/Debug/net8.0/ObserserDesignPattern.dll
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/bin/Debug/net8.0/ObserserDesignPattern.pdb
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.dll
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/refint/ObserserDesignPattern.dll
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.pdb
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ObserserDesignPattern.genruntimeconfig.cache
+/Users/rizqifakhri/bootcamp/Day 22/ObserserDesignPattern/obj/Debug/net8.0/ref/ObserserDesignPattern.dll

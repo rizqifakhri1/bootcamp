@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lYkiSBB1eAlqRDsUb1oWAzVkdGIexq58Ra5Htudej3Illy69BNo9+oHs1nZXZb1lrtabgBcDcLjVs/RG7Qaoag==",
+  "dgSpecHash": "OClrH4GnnDXib5Q086rfYGT+mBOjKEpRSKd1cFuqrd6HL64imuRW4Jck89hnlKeqTn0r/pa/b1MpESYkS0FKEw==",
   "success": true,
   "projectFilePath": "/Users/rizqifakhri/bootcamp/UnoGame/UnoGame/UnoGame.Test/UnoGame.Test.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,9 @@
     "/Users/rizqifakhri/.nuget/packages/microsoft.testplatform.testhost/17.8.0/microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
     "/Users/rizqifakhri/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/rizqifakhri/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/rizqifakhri/.nuget/packages/nlog/5.3.2/nlog.5.3.2.nupkg.sha512",
+    "/Users/rizqifakhri/.nuget/packages/nlog.config/4.7.15/nlog.config.4.7.15.nupkg.sha512",
+    "/Users/rizqifakhri/.nuget/packages/nlog.schema/4.7.15/nlog.schema.4.7.15.nupkg.sha512",
     "/Users/rizqifakhri/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
     "/Users/rizqifakhri/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512",
     "/Users/rizqifakhri/.nuget/packages/nunit.analyzers/3.9.0/nunit.analyzers.3.9.0.nupkg.sha512",
