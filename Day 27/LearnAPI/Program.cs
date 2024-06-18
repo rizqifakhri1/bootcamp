@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<Database>(opt =>{
     opt.UseNpgsql("Host=localhost;Port=5432;Database=Yourdatabase;Username=postgres;Password=postgre");
 });
-
+builder.Services.AddScoped<CategoryModule>();
 
 var app = builder.Build();
 

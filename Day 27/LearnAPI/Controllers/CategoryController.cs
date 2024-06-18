@@ -1,23 +1,24 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
-[Route("api/[controller]")]
-[ApiController]
-public class CategoryController : ControllerBase
+
+public class CategoryController : ApiBaseController
 {
-    private readonly Database _db;
-    public CategoryController(Database db){
-        _db = db;
+    private readonly CategoryModule _categoryModule;
+    public CategoryController(CategoryModule categoryModule) {
+        _categoryModule = categoryModule;
     }
     [HttpGet]
     public IActionResult GetCategory(){
-        return Ok(_db.Categories.ToList());
+        return Ok(_categoryModule.Get());
     }
 
     [HttpPost]
     public IActionResult PostCategory(Category category){
-        _db.Categories.Add(category);
-        _db.SaveChanges();
-        return Ok();
+        bool status = _categoryModule.Create(category);
+        if(status) {
+            return Ok(category);
+        }
+        return BadRequest();
     }
 }

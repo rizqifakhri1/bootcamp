@@ -1,0 +1,5 @@
+
+class ItemController : ApiBaseController {
+    private readonly Database database;
+    //....    
+}
