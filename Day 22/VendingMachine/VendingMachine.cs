@@ -19,22 +19,22 @@ public class VendingMachine
         }
     }
 
-    //Menambah pengamat
+    //Menambah pengamat (Observer)
     public void Attach(IVendingMachineObserver observer)
     {
         observers.Add(observer);
     }
 
-    //Menghapus pengamat
+    //Menghapus pengamat (Observer)
     public void Detach(IVendingMachineObserver observer)
     {
         observers.Remove(observer);
     }
 
-    //Memberitahu semua pengamat
+    //Memberitahu semua pengamat (Observer)
     public void Notify()
     {
-        string status = stock > 0 ? "Restocked" : "Out of Stock";
+        string status = stock > 0 ? $"Restocked {stock}" : "Out of Stock";
         foreach (IVendingMachineObserver observer in observers)
         {
             observer.Update(status);

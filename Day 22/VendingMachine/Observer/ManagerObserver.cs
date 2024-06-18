@@ -12,6 +12,6 @@ public class ManagerObserver : IVendingMachineObserver
 
     public void Update(string status)
     {
-        Console.WriteLine($"Manager {name} notified: Vending Machine is {status}");
+        Console.WriteLine($"[ Manager  ] {name} notified: Vending Machine is {status}");
     }
 }
